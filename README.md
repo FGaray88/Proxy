@@ -1,4 +1,3 @@
-Nada por aqui, nada por allá
 
 peticiones
 /info -- data
